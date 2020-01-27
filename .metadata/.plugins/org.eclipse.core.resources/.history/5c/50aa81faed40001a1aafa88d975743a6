@@ -1,0 +1,26 @@
+package lecture7_homework;
+
+import java.util.Scanner;
+
+public class UserInputArray {
+
+	public static void main(String[] args) {
+		
+		
+		
+		int inputNum = 0;
+		
+		Scanner inputArray = new Scanner(System.in);
+		System.out.println("How much numbers?");
+		
+		int ar = inputArray.nextInt();
+		int arrayLenght[] = new int [ar];
+		
+		
+		Scanner input = new Scanner(System.in);
+		System.out.println("Input value: ");
+		
+		
+	}
+
+}
